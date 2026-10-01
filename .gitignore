@@ -1,0 +1,12 @@
+/config/database.local.php
+/config/python.local.php
+/config/whatsapp.local.php
+/storage/
+!/storage/.htaccess
+/work/
+__pycache__/
+*.py[cod]
+*.xlsx
+*.xls
+*.csv
+*.json
